@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyMVVM2</string>
+    <string name="id_text">ID: %1$s</string>
 </resources>
